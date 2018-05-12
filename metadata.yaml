@@ -1,0 +1,35 @@
+_repo: Historic-Events-of-Colonial-Days_42429
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42429-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holland, Rupert Sargent
+    aliases:
+    - Holland, R. S. (Rupert Sargent)
+    - Holland, Rupert S. (Rupert Sargent)
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '26423'
+    url: http://www.gutenberg.org/2009/agents/26423
+description: ''
+gutenberg_issued: '2013-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42429'
+  lccn: '16022318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775'
+- !lcc 'E186'
+tableOfContents: A Puritan hero -- Peter Stuyvesant's flag -- When Governor Andross
+  came to Connecticut -- The struggle between Nathaniel Bacon and Sir William Berkeley
+  -- An outlaw chief of Maryland -- In the days of witches -- The attack on the Delaware
+  -- The pirates of Charles Town harbor -- The founder of Georgia -- The Green Mountain
+  Boys and the Yorkers.
+title: Historic Events of Colonial Days
+url: http://www.gutenberg.org/ebooks/42429
